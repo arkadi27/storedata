@@ -3,32 +3,23 @@
     {
       "id": 1,
       "description": "Bad Habit Top",
-      "image": "https://www.stitchboutique.net/bad-habit-skirt.html"
+      "click": "https://www.stitchboutique.net/bad-habit-skirt.html"
+      "image": "https://static.shoplightspeed.com/shops/616022/files/007298435/600x600x2/bad-habit-skirt.jpg"
+
     },
     {
       "id": 2,
       "description": "Sleek Jersey",
-      "image": "https://www.stitchboutique.net/z-supply-the-sleek-jersey-pocket-tee.html"
+      "click": "https://www.stitchboutique.net/z-supply-the-sleek-jersey-pocket-tee.html"
+      "image": "https://static.shoplightspeed.com/shops/616022/files/006595485/600x600x2/z-supply-the-sleek-jersey-pocket-tee.jpg"
+
     },
     {
       "id": 3,
       "description": "Cupcakes",
-      "image": "https://www.stitchboutique.net/cupcakes-and-cashmere-brooklyn-sweater.html"
-    },
-    {
-      "id": 4,
-      "description": "Raven Kimono",
-      "image": "https://www.stitchboutique.net/on-the-road-raven-kimono-rr7335p.html"
-    },
-    {
-      "id": 5,
-      "description": "Lima Jumpsuit",
-      "image": "https://www.stitchboutique.net/cupcakes-and-cashmere-lima-jumpsuit.html"
-    },
-    {
-      "id": 3,
-      "description": "Katana Shirt",
-      "image": "https://www.stitchboutique.net/katana-shirt.html"
+      "click": "https://www.stitchboutique.net/cupcakes-and-cashmere-brooklyn-sweater.html"
+      "image": "https://static.shoplightspeed.com/shops/616022/files/006923571/600x600x2/cupcakes-and-cashmere-brooklyn-sweater.jpg"
+
     }
   ]
 }
