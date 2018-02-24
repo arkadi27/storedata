@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "description": "Bad Habit Top",
+      "image": "https://www.stitchboutique.net/bad-habit-skirt.html"
+    },
+    {
+      "id": 2,
+      "description": "Sleek Jersey",
+      "image": "https://www.stitchboutique.net/z-supply-the-sleek-jersey-pocket-tee.html"
+    },
+    {
+      "id": 3,
+      "description": "Cupcakes",
+      "image": "https://www.stitchboutique.net/cupcakes-and-cashmere-brooklyn-sweater.html"
+    },
+    {
+      "id": 4,
+      "description": "Raven Kimono",
+      "image": "https://www.stitchboutique.net/on-the-road-raven-kimono-rr7335p.html"
+    },
+    {
+      "id": 5,
+      "description": "Lima Jumpsuit",
+      "image": "https://www.stitchboutique.net/cupcakes-and-cashmere-lima-jumpsuit.html"
+    },
+    {
+      "id": 3,
+      "description": "Katana Shirt",
+      "image": "https://www.stitchboutique.net/katana-shirt.html"
+    }
+  ]
+}
