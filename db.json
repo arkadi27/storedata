@@ -20,6 +20,20 @@
       "click": "https://www.stitchboutique.net/cupcakes-and-cashmere-brooklyn-sweater.html",
       "image": "https://static.shoplightspeed.com/shops/616022/files/006923571/600x600x2/cupcakes-and-cashmere-brooklyn-sweater.jpg"
 
+    },
+    {
+      "id": 4,
+      "description": "Cupcakes",
+      "click": "https://www.stitchboutique.net/boulevard-dress.html",
+      "image": "https://static.shoplightspeed.com/shops/616022/files/007159857/600x600x2/boulevard-dress.jpg"
+
+    },
+    {
+      "id": 5,
+      "description": "Cupcakes",
+      "click": "https://www.stitchboutique.net/onyx-leggings.html",
+      "image": "https://static.shoplightspeed.com/shops/616022/files/007159811/600x600x2/onyx-leggings.jpg"
+
     }
   ]
 }
