@@ -3,32 +3,32 @@
     {
       "brand": "Featured Boutique",
       "description": "Bad Habit Top",
-      "click": "https://www.shoptiques.com/products/lush-risky-business-dress/589926?signalSource=boutique",
-      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/lush-risky-business-dress-84cb093b_s.jpg"
+      "click": "https://www.shoptiques.com/products/mod-red-grace-dress/589929?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/mod-red-grace-dress-4e115e46_l.jpg"
     },
     {
       "id": 2,
       "description": "Sleek Jersey",
-      "click": "https://www.shoptiques.com/products/black_swan-kianna-sweater",
-      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/black_swan-kianna-sweater-beige-2b1632c5_l.jpg"
+      "click": "https://www.shoptiques.com/products/lush-risky-business-dress/589926?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/lush-risky-business-dress-84cb093b_l.jpg"
     },
     {
       "id": 3,
       "description": "Cupcakes",
-      "click": "http://midnight-rambler-boutique.shoplightspeed.com/stone-row-stone-row-fauxreals-coat-steel.html",
-      "image": "http://static.shoplightspeed.com/shops/609672/files/005555151/stone-row-stone-row-fauxreals-coat-steel.jpg"
+      "click": "https://www.shoptiques.com/products/thml-lazy-day-blouse/520465?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/thml-lazy-day-blouse-f03c6e3d_l.jpg"
     },
     {
       "id": 4,
       "description": "Cupcakes",
-      "click": "http://midnight-rambler-boutique.shoplightspeed.com/cleobella-cleobella-garrett-caplet.html",
-      "image": "http://static.shoplightspeed.com/shops/609672/files/006518446/cleobella-cleobella-garrett-caplet.jpg"
+      "click": "https://www.shoptiques.com/products/paper-crane-the-motto-jacket/435166?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/paper-crane-the-motto-jacket-808e1ad5_l.jpg"
     },
     {
       "id": 5,
       "description": "Cupcakes",
-      "click": "http://midnight-rambler-boutique.shoplightspeed.com/saltwater-luxe-saltwater-luxe-sophie-jumper-black.html",
-      "image": "http://static.shoplightspeed.com/shops/609672/files/007237143/saltwater-luxe-saltwater-luxe-sophie-jumper-black.jpg"
+      "click": "https://www.shoptiques.com/products/everly-the-kara-dress/589936?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/everly-the-kara-dress-7496a5fd_l.jpg"
     }
   ]
 }
