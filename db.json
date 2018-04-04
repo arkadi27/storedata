@@ -1,34 +1,34 @@
 {
   "products": [
     {
-      "brand": "Featured: Inspyre Boutique",
+      "brand": "Featured: Intrigue Boutique",
       "description": "Bad Habit Top",
-      "click": "https://inspyreboutique.com/shop/josie-sequin-skirt/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2017/12/Josie-Sequin-Skirt-Colorado-Best-Boutique-510x767.jpg"
+      "click": "https://www.shoptiques.com/products/mod-red-grace-dress/589929?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/mod-red-grace-dress-4e115e46_l.jpg"
     },
     {
       "id": 2,
       "description": "Sleek Jersey",
-      "click": "https://inspyreboutique.com/shop/sunny-dazer-crop/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2017/12/Sunny-Dazer-Top-Best-Denver-Boutique-510x767.png"
+      "click": "https://www.shoptiques.com/products/lush-risky-business-dress/589926?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/lush-risky-business-dress-84cb093b_l.jpg"
     },
     {
       "id": 3,
       "description": "Cupcakes",
-      "click": "https://inspyreboutique.com/shop/right-around-midi/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2017/12/Right-Around-Midi-Dress-Denver-Best-Boutique.png"
+      "click": "https://www.shoptiques.com/products/thml-lazy-day-blouse/520465?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/thml-lazy-day-blouse-f03c6e3d_l.jpg"
     },
     {
       "id": 4,
       "description": "Cupcakes",
-      "click": "https://inspyreboutique.com/shop/winding-roads-blouse/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2017/11/j509mwin_sie_1.jpg"
+      "click": "https://www.shoptiques.com/products/paper-crane-the-motto-jacket/435166?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/paper-crane-the-motto-jacket-808e1ad5_l.jpg"
     },
     {
       "id": 5,
       "description": "Cupcakes",
-      "click": "https://inspyreboutique.com/shop/never-knew-top/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2017/04/Never_Knew_Top_Denver_Best_Boutique.jpg"
+      "click": "https://www.shoptiques.com/products/everly-the-kara-dress/589936?signalSource=boutique",
+      "image": "https://cdn.shoptiques.com/shoptiques-shop/products/everly-the-kara-dress-7496a5fd_l.jpg"
     }
   ]
 }
