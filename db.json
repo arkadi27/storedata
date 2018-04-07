@@ -2,33 +2,33 @@
   "products": [
     {
       "brand": "Featured: Meraki Moon Boutique",
-      "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/boardwalk-mini/",
+      "description": "Bad Habit Top",
+      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
       "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
     },
     {
       "id": 2,
       "description": "Sleek Jersey",
-      "click": "https://shopmerakimoon.com/product/grace-drawstring-bag/",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-25.jpg"
+      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
+      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
     },
     {
       "id": 3,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/ivory-kylie-tote/",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-71.jpg"
+      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
+      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
     },
     {
       "id": 4,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/carmen-tote-bag/",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-15.jpg"
+      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
+      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
     },
     {
       "id": 5,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/novella-royale-the-juliet-rosette-gardenia/",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-35.jpg"
+      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
+      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
     }
   ]
 }
