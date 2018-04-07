@@ -3,7 +3,7 @@
     {
       "brand": "Featured: Meraki Moon Boutique",
       "description": "Bad Habit Top",
-      "click": "https://shopmerakimoon.com/product/boardwalk-mini/",
+      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
       "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
     },
     {
@@ -15,19 +15,19 @@
     {
       "id": 3,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/ivory-kylie-tote/",
+      "click": "https://shopmerakimoon.com/product/ivory-kylie-tote",
       "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-71.jpg"
     },
     {
       "id": 4,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/carmen-tote-bag/",
+      "click": "https://shopmerakimoon.com/product/carmen-tote-bag",
       "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-15.jpg"
     },
     {
       "id": 5,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/novella-royale-the-juliet-rosette-gardenia/",
+      "click": "https://shopmerakimoon.com/product/novella-royale-the-juliet-rosette-gardenia",
       "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-35.jpg"
     }
   ]
