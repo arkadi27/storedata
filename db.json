@@ -1,34 +1,34 @@
 {
   "products": [
     {
-      "brand": "Featured: Meraki Moon Boutique",
+      "brand": "Featured: Melrose And Madison Boutique",
       "description": "Bad Habit Top",
-      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/mcguire-huffine-overall",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/HUFFINE_CULOTTE_OVERALL_IN_DAPHNE12_1024x1024.jpg?v=1522972108"
     },
     {
       "id": 2,
       "description": "Sleek Jersey",
-      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/frame-le-vintage-jacket",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/6c8b8d4c-883d-419e-ae0b-1d74d4b2fbfd_1024x1024.png?v=1521399396"
     },
     {
       "id": 3,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/360-cashmere-aveline-sweater",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/e827bc60-a140-4229-8c28-394ae185f285_1024x1024.png?v=1521396113"
     },
     {
       "id": 4,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/mcguire-valletta-straight-denim",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/5d951b2f-f221-41ac-8460-23094ae965ae_1024x1024.png?v=1521323920"
     },
     {
       "id": 5,
       "description": "Cupcakes",
-      "click": "https://shopmerakimoon.com/product/boardwalk-mini",
-      "image": "https://ct9dp3m0lpz2pklmd1wq6dsa-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/merakimoon4.4-2.jpg"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/spell-the-gypsy-imperial-lace-blouse",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/f02db24c-d9e9-47cd-aa13-dbe5e44e8ade_1024x1024.png?v=1520978263"
     }
   ]
 }
