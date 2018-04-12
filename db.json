@@ -1,34 +1,35 @@
 {
   "products": [
     {
-      "brand": "Featured: Melrose And Madison Boutique",
+      "brand": "Featured: Hailee Grace Boutique",
       "description": "Bad Habit Top",
-      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/mcguire-huffine-overall",
-      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/HUFFINE_CULOTTE_OVERALL_IN_DAPHNE12_1024x1024.jpg?v=1522972108"
+      "click": "https://www.haileegrace.com/off-the-shoulder-maxi.html",
+      "image": "https://static.shoplightspeed.com/shops/610061/files/007777700/off-the-shoulder-maxi.jpg"
     },
     {
       "id": 2,
       "description": "Sleek Jersey",
-      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/frame-le-vintage-jacket",
-      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/6c8b8d4c-883d-419e-ae0b-1d74d4b2fbfd_1024x1024.png?v=1521399396"
+      "click": "https://www.haileegrace.com/printed-dress.html",
+      "image": "https://static.shoplightspeed.com/shops/610061/files/007691504/printed-dress.jpg"
     },
     {
       "id": 3,
       "description": "Cupcakes",
-      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/faithfull-the-brand-de-fiori-top-1",
-      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/e6b65451-e485-462e-b091-3421b70c3f89_1024x1024.png?v=1520720002"
+      "click": "https://www.haileegrace.com/strappy-dress.html",
+      "image": "https://static.shoplightspeed.com/shops/610061/files/007721096/strappy-dress.jpg"
     },
     {
       "id": 4,
       "description": "Cupcakes",
-      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/mcguire-valletta-straight-denim",
-      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/5d951b2f-f221-41ac-8460-23094ae965ae_1024x1024.png?v=1521323920"
+      "click": "https://www.haileegrace.com/heartloom-ruffle-detail-dress.html",
+      "image": "https://static.shoplightspeed.com/shops/610061/files/007676159/ruffle-detail-dress.jpg"
     },
     {
       "id": 5,
       "description": "Cupcakes",
-      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/spell-the-gypsy-imperial-lace-blouse",
-      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/f02db24c-d9e9-47cd-aa13-dbe5e44e8ade_1024x1024.png?v=1520978263"
+      "click": "https://www.haileegrace.com/amuse-printed-dress.html",
+      "image": "https://static.shoplightspeed.com/shops/610061/files/007479038/printed-dress.jpg"
     }
   ]
 }
+
