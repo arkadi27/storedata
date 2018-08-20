@@ -9,24 +9,28 @@
     {
       "id": 2,
       "description": "Sleek Jersey",
+      "brand": "Garbarini Boutique",
       "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
       "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-06-at-4.42.03-PM.png"
     },
     {
       "id": 3,
       "description": "Cupcakes",
+      "brand": "Garbarini Boutique",
       "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
       "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-4.53.17-PM.png"
     },
     {
       "id": 4,
       "description": "Cupcakes",
+      "brand": "Garbarini Boutique",
       "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
       "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-4.51.06-PM.png"
     },
     {
       "id": 5,
       "description": "Cupcakes",
+      "brand": "Garbarini Boutique",
       "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
       "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-10-at-4.20.23-PM.png"
     }
