@@ -2,9 +2,9 @@
   "products": [
     {
       "brand": "Featured: Melrose & Madison Boutique",
-      "description": "Bad Habit Top",
-      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/spell-lily-kimono-top",
-      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_5_59aac9e7-bde5-4935-8145-0c8bfa373b7a_1024x1024.png?v=1535062961"
+      "description": "Cupcakes",
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/mumu-durado-jacket",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_3_1024x1024.png?v=1533155867"
     },
     {
       "id": 2,
@@ -26,9 +26,9 @@
     },
     {
       "id": 5,
-      "description": "Cupcakes",
-      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/mumu-durado-jacket",
-      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_3_1024x1024.png?v=1533155867"
+      "description": "Bad Habit Top",
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/spell-lily-kimono-top",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_5_59aac9e7-bde5-4935-8145-0c8bfa373b7a_1024x1024.png?v=1535062961"
     }
   ]
 }
