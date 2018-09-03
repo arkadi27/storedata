@@ -1,38 +1,34 @@
 {
   "products": [
     {
-      "brand": "Featured: Garbarini Boutique",
+      "brand": "Featured: Melrose And Madison Boutique",
       "description": "Bad Habit Top",
-      "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
-      "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-10-at-4.11.44-PM.png"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/spell-lily-kimono-top",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_5_59aac9e7-bde5-4935-8145-0c8bfa373b7a_1024x1024.png?v=1535062961"
     },
     {
       "id": 2,
       "description": "Sleek Jersey",
-      "brand": "Garbarini Boutique",
-      "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
-      "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-06-at-4.42.03-PM.png"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/flynn-skye-jennifer-jumper",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_821a5eb8-f9d1-4add-a738-734d2a2e9fab_1024x1024.png?v=1534268283"
     },
     {
       "id": 3,
       "description": "Cupcakes",
-      "brand": "Garbarini Boutique",
-      "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
-      "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-4.53.17-PM.png"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/gl-charlotte-lace-top",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_18_61e3fe4a-4d07-489c-ad8c-31dbc5c58a25_1024x1024.png?v=1534010891"
     },
     {
       "id": 4,
       "description": "Cupcakes",
-      "brand": "Garbarini Boutique",
-      "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
-      "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-12-at-4.51.06-PM.png"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/mumu-cropped-varsity-sweater",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_4_5bb1a4d6-b529-4f82-8dea-17302b859620_1024x1024.png?v=1533155602"
     },
     {
       "id": 5,
       "description": "Cupcakes",
-      "brand": "Garbarini Boutique",
-      "click": "https://garbarinishop.com/clothing/?category=new-arrivals",
-      "image": "https://garbarinishop.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-10-at-4.20.23-PM.png"
+      "click": "https://melrose-madison.myshopify.com/collections/new-arrivals/products/mumu-durado-jacket",
+      "image": "https://cdn.shopify.com/s/files/1/1218/8210/products/download_3_1024x1024.png?v=1533155867"
     }
   ]
 }
