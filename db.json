@@ -4,31 +4,31 @@
       "brand": "Featured: Inspyre Boutique",
       "description": "Cupcakes",
       "click": "https://www.inspyreboutique.com/collections/sweaters/products/split-decision-sweater",
-      "image": "https://cdn.shopify.com/s/files/1/0662/2199/8336/products/Split_1728x.jpg?v=1663094389"
+      "image": "https://cdn.shopify.com/s/files/1/0662/2199/8336/products/Split2_1728x.jpg?v=1663094389"
     },
     {
       "id": 2,
       "description": "Sleek Jersey",
-      "click": "https://inspyreboutique.com/shop/bag-it-up-shorts/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2019/03/Bag-it-up-Shorts-Colorado-Style-665x1000.jpg"
+      "click": "https://www.inspyreboutique.com/collections/sweaters/products/hot-spot-knit-crop",
+      "image": "https://cdn.shopify.com/s/files/1/0662/2199/8336/products/HotSpot4_1728x.jpg?v=1663095202"
     },
     {
       "id": 3,
       "description": "Cupcakes",
-      "click": "https://inspyreboutique.com/shop/right-round-sweater/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2019/03/Right-Round-Sweater-Boho-Boutique-665x1000.jpg"
+      "click": "https://www.inspyreboutique.com/collections/sweaters/products/targee-sweater",
+      "image": "https://cdn.shopify.com/s/files/1/0662/2199/8336/products/Targee_Sweater_Pockets_1728x.jpg?v=1662739603"
     },
     {
       "id": 4,
       "description": "Cupcakes",
-      "click": "https://inspyreboutique.com/shop/mi-amore-top/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2019/02/mi-amore-denver-best-boutique-665x1000.jpg"
+      "click": "https://www.inspyreboutique.com/collections/tops/products/put-em-up-button-up",
+      "image": "https://cdn.shopify.com/s/files/1/0662/2199/8336/products/PutEmup3_1728x.jpg?v=1663187944"
     },
     {
       "id": 5,
       "description": "Bad Habit Top",
-      "click": "https://inspyreboutique.com/shop/adventure-spirit/",
-      "image": "https://inspyreboutique.com/wp-content/uploads/2018/12/adventure_spirit_denver_best_boutique.jpg"
+      "click": "https://www.inspyreboutique.com/collections/tops/products/colorado-sun-graphic",
+      "image": "https://cdn.shopify.com/s/files/1/0662/2199/8336/products/Old-School-Colorado-Tank_665x.jpg?v=1662144009"
     }
   ]
 }
